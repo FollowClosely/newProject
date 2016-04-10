@@ -2,15 +2,45 @@
 // ===== _VARIABLES =============== //
 // ================================ //
 
-$sans:'Brandon_reg';
-$sansItalic: 'Brandon_reg_it';
-$sansBold: 'Brandon_bld';
-$sansBoldItalic: 'Brandon_bld_it';
+$sans:'Open Sans Normal', sans-serif;
+$sansItalic: 'Open Sans Normal Italic', sans-serif;
+$sansBold: 'Open Sans Bold', sans-serif;
+$sansLight: 'Open Sans 300', sans-serif;
+$sansLightItalic: 'Open Sans 300 Italic', sans-serif;
+$sansSemibold: 'Open Sans 600', sans-serif;
+$sansSemiboldItalic: 'Open Sans 600 Italic', sans-serif;
+$sansBlack: 'Open Sans 800', sans-serif;
+$sansBlackItalic: 'Open Sans 800 Italic', sans-serif;
 
-$serif: 'Abril_Text_Regular';
-$serifItalic: 'Abril_Text_Italic';
-$serifBold: 'Abril_Text_Bold';
-$serifBoldItalic: 'Abril_Text_BoldItalic';
+	// aliases for $sans //
+	$sansI: 'Open Sans Normal Italic', sans-serif;
+	$sansB: 'Open Sans Bold', sans-serif;
+	$sans300: 'Open Sans 300', sans-serif;
+	$sans300I: 'Open Sans 300 Italic', sans-serif;
+	$sans600: 'Open Sans 600', sans-serif;
+	$sans600I: 'Open Sans 600 Italic', sans-serif;
+	$sans800: 'Open Sans 800', sans-serif;
+	$sans800I: 'Open Sans 800 Italic', sans-serif;
+
+$serif: 'Abril_Text_Regular', serif;
+$serifItalic: 'Abril_Text_Italic', serif;
+$serifBold: 'Abril_Text_Bold', serif;
+$serifBoldItalic: 'Abril_Text_BoldItalic', serif;
+
+	// aliases for $serif //
+	$serifI: 'Abril_Text_Italic', serif;
+	$serifB: 'Abril_Text_Bold', serif;
+	$serifBI: 'Abril_Text_BoldItalic', serif;
+
+$display: 'Brandon_reg', sans-serif;
+$displayItalic: 'Brandon_reg_it', sans-serif;
+$displayBold: 'Brandon_bld', sans-serif;
+$displayBoldItalic: 'Brandon_bld_it', sans-serif;
+
+	// aliases for $display // 
+	$displayI: 'Brandon_reg_it', sans-serif;
+	$displayB: 'Brandon_bld', sans-serif;
+	$displayBI: 'Brandon_bld_it', sans-serif;
 
 
 // $black: #212425;
